@@ -1,0 +1,8 @@
+package demo;
+
+public class myclass1 {
+	public static void main(String a[]) {
+		System.out.println("Hello World");
+	}
+
+}
